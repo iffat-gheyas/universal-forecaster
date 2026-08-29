@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# Environment / secret files
+.env
+.env.*
+
+# Generated runtime data
+data/raw/
+data/clean/
+
+# Common temporary/system files
+.DS_Store
+Thumbs.db

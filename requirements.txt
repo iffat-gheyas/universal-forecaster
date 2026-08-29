@@ -1,0 +1,12 @@
+streamlit
+yfinance
+curl_cffi
+pandas
+openpyxl
+scipy
+matplotlib
+statsmodels
+scikit-learn
+tensorflow
+arch
+PyWavelets
